@@ -28,8 +28,6 @@ A multifunctional agricultural robot equipped with a flame sensor, radar system,
 <img width="500" alt="Flame Sensor Circuit" src="<img width="863" height="584" alt="FlameSensor_CircuitDiagram ino" src="https://github.com/user-attachments/assets/678f8b71-f2bb-456a-aa93-55ff975872f0" />">
 
 
----
-
 ## Radar System Module
 
 *Purpose:* Detects obstacles and uses the Processing interface for visualization.
